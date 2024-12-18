@@ -4,4 +4,4 @@
 
 My Favorite Repos
 
-[![Python Repo](https://github-readme-stats.vercel.app/api/pin/?username=dragontamer7866&repo=python)](https://github.com/dragontamer7866/python)
+[![Python Repo](https://github-readme-stats.vercel.app/api/pin/?username=dragontamer7866&repo=python&theme=ambient_gradient)](https://github.com/dragontamer7866/python)
