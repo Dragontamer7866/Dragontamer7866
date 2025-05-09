@@ -4,4 +4,4 @@
 
 ## My Favorite Repos
 
-[![Cyberpatriots24-25](https://github-readme-stats.vercel.app/api/pin/?username=dragontamer7866&repo=ZMS-Cyberpatriot-templates&theme=ambient_gradient)](https://github.com/dragontamer7866/cyberpatriots24-25)
+[![Cyberpatriots24-25](https://github-readme-stats.vercel.app/api/pin/?username=dragontamer7866&repo=Cyberpatriots24-25&theme=ambient_gradient)](https://github.com/dragontamer7866/Cyberpatriots24-25)
