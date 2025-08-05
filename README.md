@@ -7,6 +7,7 @@
 
 [![Cyberpatriots24-25](https://github-readme-stats.vercel.app/api/pin/?username=dragontamer7866&repo=Cyberpatriots24-25&theme=ambient_gradient)](https://github.com/dragontamer7866/Cyberpatriots24-25)
 
+[![Powershell](https://github-readme-stats.vercel.app/api/pin/?username=dragontamer7866&repo=Cyberpatriots24-25&theme=ambient_gradient)](https://github.com/PowerShell/PowerShell)
 
 ## About me
 
