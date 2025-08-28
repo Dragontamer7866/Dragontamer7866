@@ -1,13 +1,13 @@
 # Dragontamer7866
 ![Dragontamer7866's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragontamer7866&show_icons=true&theme=ambient_gradient)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragontamer7866&size_weight=0.5&count_weight=0.5&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragontamer7866&size_weight=0.5&count_weight=0.5&theme=gradient)
 
 ## My Favorite Repos
 
-[![Cyberpatriots24-25](https://github-readme-stats.vercel.app/api/pin/?username=dragontamer7866&repo=Cyberpatriots24-25&theme=ambient_gradient)](https://github.com/dragontamer7866/Cyberpatriots24-25)
+[![Cyberpatriots24-25](https://github-readme-stats.vercel.app/api/pin/?username=dragontamer7866&repo=Cyberpatriots24-25&theme=gradient)](https://github.com/dragontamer7866/Cyberpatriots24-25)
 
-[![Powershell](https://github-readme-stats.vercel.app/api/pin/?username=powershell&repo=powershell&theme=ambient_gradient)](https://github.com/PowerShell/PowerShell)
+[![Powershell](https://github-readme-stats.vercel.app/api/pin/?username=powershell&repo=powershell&theme=gradient)](https://github.com/PowerShell/PowerShell)
 
 ## About me
 
